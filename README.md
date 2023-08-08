@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying compuer science
+- 🔭 I’m currently studying computer science
 - 🌱 I’m currently learning software development
 - 💬 Ask me about computers, mathematics and physics
 - 📫 How to reach me: eduardoreyes@ciencias.unam.mx
